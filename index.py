@@ -1,6 +1,6 @@
 import random
 print("let's play rock-paper-scissors")
-print("its a best of three")
+print("its best of three")
 def game():
     user_wins = 0
     computer_wins = 0
